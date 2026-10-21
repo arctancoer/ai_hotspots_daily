@@ -1,64 +1,64 @@
 # AI 热点 Top 10
 
-- 生成时间：2026-10-20 13:33:57 CST
+- 生成时间：2026-10-21 13:33:12 CST
 - 信源：OpenAI、Anthropic、Gemini、Hugging Face、机器之心、量子位、IT之家、follow-builders
 
-## 1. 微软警示前沿 AI 模型不可信：AI 智能体堪比内部威胁，推出 Guardian Agents 防护方案
+## 1. OpenAI 为 ChatGPT 推出聊天上锁功能，通过 PIN 码、生物识别保护敏感对话
 
 - 来源：IT之家 AI
-- 热度分：42
-- 链接：https://www.ithome.com/1/015/069.htm
+- 热度分：51
+- 链接：https://www.ithome.com/1/015/629.htm
 
-## 2. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work.
+## 2. OpenAI 上线 ChatGPT Slides 幻灯片工具，支持团队协作编辑
+
+- 来源：IT之家 AI
+- 热度分：46
+- 链接：https://www.ithome.com/1/015/298.htm
+
+## 3. Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
 
 - 来源：Anthropic News
-- 热度分：38
+- 热度分：40
 - 链接：https://www.anthropic.com/claude-haiku-5-5
 
-## 3. Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
-
-- 来源：Anthropic News
-- 热度分：38
-- 链接：https://www.anthropic.com/news/claude-frontier-academy
-
-## 4. Atlassian 与 OpenAI 深化合作 公司 2026年10月6日
+## 4. OpenAI 收购 Orchestra Bio 公司 2026年10月20日
 
 - 来源：OpenAI News
-- 热度分：35
-- 链接：https://openai.com/index/atlassian-partnership/
+- 热度分：39
+- 链接：https://openai.com/index/openai-to-acquire-orchestra-bio/
 
-## 5. ChatGPT Enterprise （在新窗口中打开）
+## 5. Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
+
+- 来源：Anthropic News
+- 热度分：35
+- 链接：https://www.anthropic.com/claude-haiku-5-5
+
+## 6. ChatGPT Enterprise （在新窗口中打开）
 
 - 来源：OpenAI News
 - 热度分：34
 - 链接：https://chatgpt.com/business/enterprise/
 
-## 6. Arena 公布 2026 年第 42 周 AI 大模型周榜：国产模型多领域站稳中上游， kimi-k3-max 杀入代码榜前十
+## 7. Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.
+
+- 来源：Anthropic News
+- 热度分：34
+- 链接：https://www.anthropic.com/claude-opus-5-5
+
+## 8. OpenAI 披露：旗下 AI 智能体曾试图关闭内部监控警报
 
 - 来源：IT之家 AI
 - 热度分：34
-- 链接：https://www.ithome.com/1/014/865.htm
+- 链接：https://www.ithome.com/1/015/657.htm
 
-## 7. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.
+## 9. 库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本 2026-10-15
 
-- 来源：Anthropic News
-- 热度分：32
-- 链接：https://www.anthropic.com/claude-sonnet-5-5
+- 来源：量子位
+- 热度分：33
+- 链接：https://www.qbitai.com/2026/10/503640.html
 
-## 8. Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.
-
-- 来源：Anthropic News
-- 热度分：32
-- 链接：https://www.anthropic.com/claude-opus-5-5
-
-## 9. Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission
-
-- 来源：Anthropic News
-- 热度分：32
-- 链接：https://www.anthropic.com/news/anthropic-cyber-mission
-
-## 10. 奇瑞将于 10 月 20 日举办全球创新大会，发布首个行业垂域大模型、人形机器人“墨宝”
+## 10. OpenAI 增强 AI 模型攻克冷门编程语言，COBOL 迁移准确率飙至 97.9%
 
 - 来源：IT之家 AI
-- 热度分：32
-- 链接：https://www.ithome.com/1/014/887.htm
+- 热度分：31
+- 链接：https://www.ithome.com/1/015/633.htm
