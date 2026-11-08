@@ -1,6 +1,6 @@
 # AI 热点 Top 10
 
-- 生成时间：2026-11-07 14:43:09 CST
+- 生成时间：2026-11-08 14:49:36 CST
 - 信源：OpenAI、Anthropic、Gemini、Hugging Face、机器之心、量子位、IT之家、follow-builders
 
 ## 1. Anthropic 研究称 Claude AI 智能体可以靠“做梦”变得更聪明
@@ -39,29 +39,29 @@
 - 热度分：34
 - 链接：https://www.qbitai.com/2026/11/507082.html
 
-## 7. Introducing Claude Haiku 5.5
+## 7. OpenAI新融资到账110亿美元，不及原计划一半
+
+- 来源：量子位
+- 热度分：33
+- 链接：https://www.qbitai.com/2026/11/508344.html
+
+## 8. OpenAI CFO 弗莱尔：今年美国中期选举不会影响公司的 IPO 计划
+
+- 来源：IT之家 AI
+- 热度分：33
+- 链接：https://www.ithome.com/1/023/690.htm
+
+## 9. Introducing Claude Haiku 5.5
 
 - 来源：Anthropic News
 - 热度分：30
 - 链接：https://www.anthropic.com/claude-haiku-5-5
 
-## 8. Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+## 10. Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
 
 - 来源：Anthropic News
 - 热度分：30
 - 链接：https://www.anthropic.com/news/claude-frontier-academy
-
-## 9. Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.
-
-- 来源：Anthropic News
-- 热度分：30
-- 链接：https://www.anthropic.com/news/barclays-scales-claude
-
-## 10. Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.
-
-- 来源：Anthropic News
-- 热度分：29
-- 链接：https://www.anthropic.com/claude-opus-5-5
 
 ## 抓取异常
 
