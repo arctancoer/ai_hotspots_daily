@@ -1,68 +1,69 @@
 # AI 热点 Top 10
 
-- 生成时间：2026-11-10 15:54:10 CST
+- 生成时间：2026-11-11 15:26:05 CST
 - 信源：OpenAI、Anthropic、Gemini、Hugging Face、机器之心、量子位、IT之家、follow-builders
 
-## 1. 研究显示 OpenAI ChatGPT 占全球 AI 聊天机器人流量超 81%，断层领跑
+## 1. OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体，为 Business Agent 投放广告
 
 - 来源：IT之家 AI
-- 热度分：53
-- 链接：https://www.ithome.com/1/024/542.htm
+- 热度分：71
+- 链接：https://www.ithome.com/1/025/206.htm
 
-## 2. 8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%
-
-- 来源：IT之家 AI
-- 热度分：41
-- 链接：https://www.ithome.com/1/024/573.htm
-
-## 3. Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
+## 2. Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
 
 - 来源：Anthropic News
 - 热度分：40
 - 链接：https://www.anthropic.com/claude-haiku-5-5
 
-## 4. 全球最强 AI 模型：Claude Fable 5.2 登场，编程超 GPT-6 Astra、登顶多项基准
+## 3. OpenAI 收购旅游初创公司 Odessia，探索 AI 旅行智能体业务
 
 - 来源：IT之家 AI
-- 热度分：39
-- 链接：https://www.ithome.com/1/024/796.htm
+- 热度分：38
+- 链接：https://www.ithome.com/1/025/202.htm
 
-## 5. Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
+## 4. Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
 
 - 来源：Anthropic News
 - 热度分：35
 - 链接：https://www.anthropic.com/claude-haiku-5-5
 
-## 6. Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.
+## 5. Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.
 
 - 来源：Anthropic News
 - 热度分：34
 - 链接：https://www.anthropic.com/claude-opus-5-5
 
-## 7. 35 秒内“叫停”失控的 AI 智能体，OpenAI 部署“控制室”系统
+## 6. Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，Claude 想承包团队协作全流程
 
 - 来源：IT之家 AI
 - 热度分：34
-- 链接：https://www.ithome.com/1/024/631.htm
+- 链接：https://www.ithome.com/1/025/204.htm
 
-## 8. Meta 推出轻量级 AI 模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3
-
-- 来源：IT之家 AI
-- 热度分：34
-- 链接：https://www.ithome.com/1/024/604.htm
-
-## 9. Linux内核被挖出948个漏洞！OpenAI花120万美元找到的 2026-11-05
-
-- 来源：量子位
-- 热度分：32
-- 链接：https://www.qbitai.com/2026/11/507697.html
-
-## 10. Introducing Claude Haiku 5.5
+## 7. Introducing Claude Haiku 5.5
 
 - 来源：Anthropic News
 - 热度分：30
 - 链接：https://www.anthropic.com/claude-haiku-5-5
 
+## 8. Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+
+- 来源：Anthropic News
+- 热度分：30
+- 链接：https://www.anthropic.com/news/claude-frontier-academy
+
+## 9. Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.
+
+- 来源：Anthropic News
+- 热度分：30
+- 链接：https://www.anthropic.com/news/barclays-scales-claude
+
+## 10. Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.
+
+- 来源：Anthropic News
+- 热度分：29
+- 链接：https://www.anthropic.com/claude-opus-5-5
+
 ## 抓取异常
 
 - OpenAI News: 403 Client Error: Forbidden for url: https://openai.com/zh-Hans-CN/news/
+- 量子位: HTTPSConnectionPool(host='www.qbitai.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.qbitai.com', port=443) at 0x71d64d3ae6f0>, 'Connection to www.qbitai.com timed out. (connect timeout=25)'))
