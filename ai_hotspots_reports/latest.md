@@ -1,25 +1,25 @@
 # AI 热点 Top 10
 
-- 生成时间：2026-11-12 15:52:08 CST
+- 生成时间：2026-11-13 15:28:46 CST
 - 信源：OpenAI、Anthropic、Gemini、Hugging Face、机器之心、量子位、IT之家、follow-builders
 
-## 1. Anthropic Claude 仅用 3 天完成 AI 模型适配 AMD GPU，英伟达 CUDA 护城河遇挑战
-
-- 来源：IT之家 AI
-- 热度分：41
-- 链接：https://www.ithome.com/1/025/736.htm
-
-## 2. Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
+## 1. Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
 
 - 来源：Anthropic News
 - 热度分：40
 - 链接：https://www.anthropic.com/claude-haiku-5-5
 
-## 3. 谷歌推出 Gemini Decisions API 快速多模态决策，基于 Gemini Decision 1 模型
+## 2. 谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元
+
+- 来源：IT之家 AI
+- 热度分：38
+- 链接：https://www.ithome.com/1/026/446.htm
+
+## 3. 迪拜富豪萨基瓦尼：光是投资 OpenAI、SpaceX 和 Anthropic，我们就赚了几十亿美元
 
 - 来源：IT之家 AI
 - 热度分：36
-- 链接：https://www.ithome.com/1/025/858.htm
+- 链接：https://www.ithome.com/1/026/286.htm
 
 ## 4. Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
 
