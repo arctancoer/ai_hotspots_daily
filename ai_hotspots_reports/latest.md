@@ -1,37 +1,37 @@
 # AI 热点 Top 10
 
-- 生成时间：2026-11-15 15:22:09 CST
+- 生成时间：2026-11-16 15:28:31 CST
 - 信源：OpenAI、Anthropic、Gemini、Hugging Face、机器之心、量子位、IT之家、follow-builders
 
-## 1. 让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet
-
-- 来源：IT之家 AI
-- 热度分：61
-- 链接：https://www.ithome.com/1/026/994.htm
-
-## 2. Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
+## 1. Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
 
 - 来源：Anthropic News
 - 热度分：40
 - 链接：https://www.anthropic.com/claude-haiku-5-5
 
-## 3. 腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满 2026-11-09
-
-- 来源：量子位
-- 热度分：37
-- 链接：https://www.qbitai.com/2026/11/507843.html
-
-## 4. Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
+## 2. Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.
 
 - 来源：Anthropic News
 - 热度分：35
 - 链接：https://www.anthropic.com/claude-haiku-5-5
 
-## 5. Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.
+## 3. 不调用图像模型，Anthropic Claude Fable 5.2 用 Python 代码模拟真实画笔作画
+
+- 来源：IT之家 AI
+- 热度分：35
+- 链接：https://www.ithome.com/1/027/490.htm
+
+## 4. Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.
 
 - 来源：Anthropic News
 - 热度分：34
 - 链接：https://www.anthropic.com/claude-opus-5-5
+
+## 5. 开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级
+
+- 来源：IT之家 AI
+- 热度分：33
+- 链接：https://www.ithome.com/1/027/450.htm
 
 ## 6. Introducing Claude Haiku 5.5
 
