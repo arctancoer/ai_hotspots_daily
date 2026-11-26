@@ -1,6 +1,6 @@
 # AI 热点 Top 10
 
-- 生成时间：2026-11-25 17:23:54 CST
+- 生成时间：2026-11-26 17:01:31 CST
 - 信源：OpenAI、Anthropic、Gemini、Hugging Face、机器之心、量子位、IT之家、follow-builders
 
 ## 1. OpenAI 的性能工厂如何让 ChatGPT 保持快速响应 工程 2026年11月19日
@@ -9,17 +9,17 @@
 - 热度分：57
 - 链接：https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/
 
-## 2. 消息称 OpenAI 与 Anthropic 员工警告：内部 AI 模型能力过于强大，无法安全发布
+## 2. 德国一消费者保护中心起诉 OpenAI，称 ChatGPT 订阅容易取消难
 
 - 来源：IT之家 AI
-- 热度分：52
-- 链接：https://www.ithome.com/1/031/811.htm
+- 热度分：46
+- 链接：https://www.ithome.com/1/032/888.htm
 
-## 3. Anthropic 推出 Siren 蜜罐系统：诱测 AI 智能体触发越界行为，发现新 Claude 仍有 21~32% 沙盒场景尝试越狱逃逸
+## 3. OpenAI 开始合并 ChatGPT 聊天 / 工作模式，重度用户可能更早触及限额
 
 - 来源：IT之家 AI
-- 热度分：49
-- 链接：https://www.ithome.com/1/031/919.htm
+- 热度分：46
+- 链接：https://www.ithome.com/1/032/599.htm
 
 ## 4. OpenAI 与思科推出 Shirudo 安全防护 2026年11月23日
 
@@ -57,8 +57,8 @@
 - 热度分：34
 - 链接：https://www.anthropic.com/claude-opus-5-5
 
-## 10. OpenAI 称 GPT-6 无需“外援”即可设计蛋白质，实验室初步验证有效
+## 10. GPT-6 模型展现出内在的蛋白质设计能力 科学 2026年11月24日
 
-- 来源：IT之家 AI
-- 热度分：34
-- 链接：https://www.ithome.com/1/031/902.htm
+- 来源：OpenAI News
+- 热度分：32
+- 链接：https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
